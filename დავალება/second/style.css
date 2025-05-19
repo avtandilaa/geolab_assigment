@@ -1,0 +1,60 @@
+h1 {
+  color: #30CBC2;
+  font-size: 48px;
+}
+
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #8D81FF;
+  padding: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: blue;
+}
+
+.nav-link.active {
+  color: #4E6FAE;
+}
+a {
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: 700;
+  font: firaGO;
+  margin-right: 10px;
+}
+
+h2 {
+  font-size: 36px;
+  color: #4E6FAE;
+}
+p {
+  font-size: 20px;
+}
+.image-row {
+  display: flex; 
+  margin-left: 104px;
+  margin-top: 30px;
+  gap: 40px; 
+}
+
+.side-image {
+  width: auto; 
+  height: 50px ;
+
+}
+
+.inline-link {
+  display: inline-block;
+  margin-right: 30px;
+}
+

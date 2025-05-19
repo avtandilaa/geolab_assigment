@@ -1,0 +1,110 @@
+h1 {
+	color: #30CBC2;
+	font-size: 48px;
+}
+h2 {
+	font-size: 24px;
+	color: #8D81FF;
+}
+h6{
+	font-family: "BPG Nostalgia", sans-serif;
+}
+h4{
+	font-family: "BPG Irubaqidze", sans-serif;
+}
+
+a {
+	font-size: 24px;
+	text-decoration: none;
+	font-weight: 700;
+	font: firaGO;
+}
+
+nav {
+  display: inline-block;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #8D81FF;
+  padding: 25px;
+  display: block;
+}
+
+.nav-link:hover {
+  color: blue;
+}
+
+.nav-link.active {
+  color: #4E6FAE;
+}
+
+h5 {
+	padding: 10px;
+	background: #5012D5 ;
+	margin-left: 50px;
+	font-size: 24px;
+	color: #84FF81;
+	font-weight: 400;
+	width: 25px;
+}
+
+p {
+	color: #4E6FAE;
+	font-size: 16px;
+	font-weight: 400;
+	margin-left: 104px;
+
+}
+ol {
+	color: #4E6FAE;
+	font-size: 16px;
+	font-size: 400;
+	margin-left: 104px;
+}
+.image-row {
+  display: flex; 
+  margin-left: 104px;
+  margin-top: 30px;
+  gap: 40px; 
+}
+
+.side-image {
+  width: auto; 
+  height: 50px ;
+}
+
+.inline-link {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.image-text-box {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.icon-img {
+
+}
+
+.text-image-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin: 20px auto;
+  max-width: 1200px;
+}
+
+.side-img {
+  
+  height: auto;
+}
+
+.text-content {
+  font-family: "BPG Square", sans-serif;
+  font-size: 16px;
+
+  
+}
